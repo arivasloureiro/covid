@@ -6,10 +6,10 @@ Test Python Flask with info about Covid-19
 2. Install pip
 3. Install pip requirements:
 
-```pip -r requirements.txt```
+    ```pip -r requirements.txt```
 4. Run Flask server:
 
-```python3  run.py```
+    ```python3  run.py```
 
 # Test
 Open your browser and search: http://localhost:5000
