@@ -1,4 +1,4 @@
-# covid
+# Covid
 Test Python Flask with info about Covid-19
 
 # Install
