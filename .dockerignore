@@ -1,3 +1,5 @@
 venv/*
 test/*
-__pycache__/*
+*.pyo
+*.pyc
+app/static/images/*
